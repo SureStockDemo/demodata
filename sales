@@ -1,0 +1,96 @@
+date,division,store_id,product_category,sku_id,sku_name,sales_units,price,total_sales
+2025-09-01,Div 1,1,Produce,SKU-BAN-001,Bananas Cavendish 1lb,42,0.5,21.0
+2025-09-01,Div 1,1,Produce,SKU-APP-001,Apples Gala 3lb,29,2.0,58.0
+2025-09-01,Div 1,1,Produce,SKU-APP-002,Apples Honeycrisp 2lb,10,3.0,30.0
+2025-09-01,Div 1,1,Produce,SKU-ORG-001,Oranges Navel 4lb,19,2.5,47.5
+2025-09-01,Div 1,1,Produce,SKU-LEF-001,Leafy Greens Spinach 10oz,25,1.5,37.5
+2025-09-01,Div 1,2,Produce,SKU-BAN-001,Bananas Cavendish 1lb,45,0.5,22.5
+2025-09-01,Div 1,2,Produce,SKU-APP-001,Apples Gala 3lb,19,2.0,38.0
+2025-09-01,Div 1,2,Produce,SKU-APP-002,Apples Honeycrisp 2lb,19,3.0,57.0
+2025-09-01,Div 1,2,Produce,SKU-ORG-001,Oranges Navel 4lb,11,2.5,27.5
+2025-09-01,Div 1,2,Produce,SKU-LEF-001,Leafy Greens Spinach 10oz,19,1.5,28.5
+2025-09-02,Div 1,1,Produce,SKU-BAN-001,Bananas Cavendish 1lb,35,0.5,17.5
+2025-09-02,Div 1,1,Produce,SKU-APP-001,Apples Gala 3lb,22,2.0,44.0
+2025-09-02,Div 1,1,Produce,SKU-APP-002,Apples Honeycrisp 2lb,15,3.0,45.0
+2025-09-02,Div 1,1,Produce,SKU-ORG-001,Oranges Navel 4lb,12,2.5,30.0
+2025-09-02,Div 1,1,Produce,SKU-LEF-001,Leafy Greens Spinach 10oz,20,1.5,30.0
+2025-09-02,Div 1,2,Produce,SKU-BAN-001,Bananas Cavendish 1lb,40,0.5,20.0
+2025-09-02,Div 1,2,Produce,SKU-APP-001,Apples Gala 3lb,15,2.0,30.0
+2025-09-02,Div 1,2,Produce,SKU-APP-002,Apples Honeycrisp 2lb,22,3.0,66.0
+2025-09-02,Div 1,2,Produce,SKU-ORG-001,Oranges Navel 4lb,8,2.5,20.0
+2025-09-02,Div 1,2,Produce,SKU-LEF-001,Leafy Greens Spinach 10oz,17,1.5,25.5
+2025-09-03,Div 1,1,Produce,SKU-BAN-001,Bananas Cavendish 1lb,38,0.5,19.0
+2025-09-03,Div 1,1,Produce,SKU-APP-001,Apples Gala 3lb,25,2.0,50.0
+2025-09-03,Div 1,1,Produce,SKU-APP-002,Apples Honeycrisp 2lb,12,3.0,36.0
+2025-09-03,Div 1,1,Produce,SKU-ORG-001,Oranges Navel 4lb,15,2.5,37.5
+2025-09-03,Div 1,1,Produce,SKU-LEF-001,Leafy Greens Spinach 10oz,22,1.5,33.0
+2025-09-03,Div 1,2,Produce,SKU-BAN-001,Bananas Cavendish 1lb,42,0.5,21.0
+2025-09-03,Div 1,2,Produce,SKU-APP-001,Apples Gala 3lb,20,2.0,40.0
+2025-09-03,Div 1,2,Produce,SKU-APP-002,Apples Honeycrisp 2lb,18,3.0,54.0
+2025-09-03,Div 1,2,Produce,SKU-ORG-001,Oranges Navel 4lb,10,2.5,25.0
+2025-09-03,Div 1,2,Produce,SKU-LEF-001,Leafy Greens Spinach 10oz,20,1.5,30.0
+2025-09-04,Div 1,1,Produce,SKU-BAN-001,Bananas Cavendish 1lb,40,0.5,20.0
+2025-09-04,Div 1,1,Produce,SKU-APP-001,Apples Gala 3lb,28,2.0,56.0
+2025-09-04,Div 1,1,Produce,SKU-APP-002,Apples Honeycrisp 2lb,14,3.0,42.0
+2025-09-04,Div 1,1,Produce,SKU-ORG-001,Oranges Navel 4lb,18,2.5,45.0
+2025-09-04,Div 1,1,Produce,SKU-LEF-001,Leafy Greens Spinach 10oz,24,1.5,36.0
+2025-09-04,Div 1,2,Produce,SKU-BAN-001,Bananas Cavendish 1lb,45,0.5,22.5
+2025-09-04,Div 1,2,Produce,SKU-APP-001,Apples Gala 3lb,22,2.0,44.0
+2025-09-04,Div 1,2,Produce,SKU-APP-002,Apples Honeycrisp 2lb,20,3.0,60.0
+2025-09-04,Div 1,2,Produce,SKU-ORG-001,Oranges Navel 4lb,12,2.5,30.0
+2025-09-04,Div 1,2,Produce,SKU-LEF-001,Leafy Greens Spinach 10oz,22,1.5,33.0
+2025-09-05,Div 1,1,Produce,SKU-BAN-001,Bananas Cavendish 1lb,43,0.5,21.5
+2025-09-05,Div 1,1,Produce,SKU-APP-001,Apples Gala 3lb,30,2.0,60.0
+2025-09-05,Div 1,1,Produce,SKU-APP-002,Apples Honeycrisp 2lb,16,3.0,48.0
+2025-09-05,Div 1,1,Produce,SKU-ORG-001,Oranges Navel 4lb,20,2.5,50.0
+2025-09-05,Div 1,1,Produce,SKU-LEF-001,Leafy Greens Spinach 10oz,26,1.5,39.0
+2025-09-05,Div 1,2,Produce,SKU-BAN-001,Bananas Cavendish 1lb,48,0.5,24.0
+2025-09-05,Div 1,2,Produce,SKU-APP-001,Apples Gala 3lb,24,2.0,48.0
+2025-09-05,Div 1,2,Produce,SKU-APP-002,Apples Honeycrisp 2lb,22,3.0,66.0
+2025-09-05,Div 1,2,Produce,SKU-ORG-001,Oranges Navel 4lb,14,2.5,35.0
+2025-09-05,Div 1,2,Produce,SKU-LEF-001,Leafy Greens Spinach 10oz,24,1.5,36.0
+2025-09-06,Div 1,1,Produce,SKU-BAN-001,Bananas Cavendish 1lb,45,0.5,22.5
+2025-09-06,Div 1,1,Produce,SKU-APP-001,Apples Gala 3lb,32,2.0,64.0
+2025-09-06,Div 1,1,Produce,SKU-APP-002,Apples Honeycrisp 2lb,18,3.0,54.0
+2025-09-06,Div 1,1,Produce,SKU-ORG-001,Oranges Navel 4lb,22,2.5,55.0
+2025-09-06,Div 1,1,Produce,SKU-LEF-001,Leafy Greens Spinach 10oz,28,1.5,42.0
+2025-09-06,Div 1,2,Produce,SKU-BAN-001,Bananas Cavendish 1lb,50,0.5,25.0
+2025-09-06,Div 1,2,Produce,SKU-APP-001,Apples Gala 3lb,26,2.0,52.0
+2025-09-06,Div 1,2,Produce,SKU-APP-002,Apples Honeycrisp 2lb,24,3.0,72.0
+2025-09-06,Div 1,2,Produce,SKU-ORG-001,Oranges Navel 4lb,16,2.5,40.0
+2025-09-06,Div 1,2,Produce,SKU-LEF-001,Leafy Greens Spinach 10oz,26,1.5,39.0
+2025-09-07,Div 1,1,Produce,SKU-BAN-001,Bananas Cavendish 1lb,47,0.5,23.5
+2025-09-07,Div 1,1,Produce,SKU-APP-001,Apples Gala 3lb,34,2.0,68.0
+2025-09-07,Div 1,1,Produce,SKU-APP-002,Apples Honeycrisp 2lb,20,3.0,60.0
+2025-09-07,Div 1,1,Produce,SKU-ORG-001,Oranges Navel 4lb,24,2.5,60.0
+2025-09-07,Div 1,1,Produce,SKU-LEF-001,Leafy Greens Spinach 10oz,30,1.5,45.0
+2025-09-07,Div 1,2,Produce,SKU-BAN-001,Bananas Cavendish 1lb,48,0.5,24.0
+2025-09-07,Div 1,2,Produce,SKU-APP-001,Apples Gala 3lb,28,2.0,56.0
+2025-09-07,Div 1,2,Produce,SKU-APP-002,Apples Honeycrisp 2lb,26,3.0,78.0
+2025-09-07,Div 1,2,Produce,SKU-ORG-001,Oranges Navel 4lb,18,2.5,45.0
+2025-09-07,Div 1,2,Produce,SKU-LEF-001,Leafy Greens Spinach 10oz,28,1.5,42.0
+2025-09-08,Div 1,1,Produce,SKU-BAN-001,Bananas Cavendish 1lb,40,0.5,20.0
+2025-09-08,Div 1,1,Produce,SKU-APP-001,Apples Gala 3lb,28,2.0,56.0
+2025-09-08,Div 1,1,Produce,SKU-APP-002,Apples Honeycrisp 2lb,15,3.0,45.0
+2025-09-08,Div 1,1,Produce,SKU-ORG-001,Oranges Navel 4lb,18,2.5,45.0
+2025-09-08,Div 1,1,Produce,SKU-LEF-001,Leafy Greens Spinach 10oz,25,1.5,37.5
+2025-09-08,Div 1,2,Produce,SKU-BAN-001,Bananas Cavendish 1lb,42,0.5,21.0
+2025-09-08,Div 1,2,Produce,SKU-APP-001,Apples Gala 3lb,22,2.0,44.0
+2025-09-08,Div 1,2,Produce,SKU-APP-002,Apples Honeycrisp 2lb,20,3.0,60.0
+2025-09-08,Div 1,2,Produce,SKU-ORG-001,Oranges Navel 4lb,12,2.5,30.0
+2025-09-08,Div 1,2,Produce,SKU-LEF-001,Leafy Greens Spinach 10oz,22,1.5,33.0
+2025-09-09,Div 1,1,Produce,SKU-BAN-001,Bananas Cavendish 1lb,38,0.5,19.0
+2025-09-09,Div 1,1,Produce,SKU-APP-001,Apples Gala 3lb,26,2.0,52.0
+2025-09-09,Div 1,1,Produce,SKU-APP-002,Apples Honeycrisp 2lb,13,3.0,39.0
+2025-09-09,Div 1,1,Produce,SKU-ORG-001,Oranges Navel 4lb,16,2.5,40.0
+2025-09-09,Div 1,1,Produce,SKU-LEF-001,Leafy Greens Spinach 10oz,23,1.5,34.5
+2025-09-09,Div 1,2,Produce,SKU-BAN-001,Bananas Cavendish 1lb,40,0.5,20.0
+2025-09-09,Div 1,2,Produce,SKU-APP-001,Apples Gala 3lb,20,2.0,40.0
+2025-09-09,Div 1,2,Produce,SKU-APP-002,Apples Honeycrisp 2lb,18,3.0,54.0
+2025-09-09,Div 1,2,Produce,SKU-ORG-001,Oranges Navel 4lb,10,2.5,25.0
+2025-09-09,Div 1,2,Produce,SKU-LEF-001,Leafy Greens Spinach 10oz,20,1.5,30.0
+2025-09-10,Div 1,1,Produce,SKU-BAN-001,Bananas Cavendish 1lb,36,0.5,18.0
+2025-09-10,Div 1,1,Produce,SKU-APP-001,Apples Gala 3lb,24,2.0,48.0
+2025-09-10,Div 1,1,Produce,SKU-APP-002,Apples Honeycrisp 2lb,11,3.0,33.0
+2025-09-10,Div 1,1,Produce,SKU-ORG-001,Oranges Navel 4lb,14,2.5,35.0
+2025-09-10,Div 1,1,Produce,SKU-LEF-001,Leafy Greens Spinach 10oz,21,1.5,31.5
